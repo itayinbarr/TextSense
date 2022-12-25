@@ -39,11 +39,11 @@ def use_model(text):
     pred = np.zeros((1,250))
     pred[0] = encoded
     result = model.predict(pred)*100
-    value = result[0][0]
+    value = round(result[0][0])
     if value > 50:
-        print("The text you put is {} positive.".format(value))
+        print("The text you wrote is {} percent positive.".format(value))
     else:
-        print("The text you put is {} negative.".format(100 - value))
+        print("The text you wrote is {} percent negative.".format(100 - value))
 
 
 # Helper function for using the trained the model

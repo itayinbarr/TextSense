@@ -5,6 +5,13 @@ A recurrent neural network model I trained, to realize whether text is positive 
 
 This project demonstrates the process of building, training and using a RNN.
 
+Demo video
+------------
+
+### Frontend Overview
+
+![Demo](./textsensedemo.gif?raw=true)
+
 Getting Started
 ------------
 
