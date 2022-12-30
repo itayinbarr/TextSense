@@ -1,7 +1,7 @@
 TextSense
 ==============================
 
-A recurrent neural network model I trained, to realize whether text is positive or negative.
+A recurrent neural network model I created & trained, to realize whether text is positive or negative.
 
 This project demonstrates the process of building, training and using a RNN.
 
