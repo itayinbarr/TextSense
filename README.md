@@ -15,8 +15,6 @@ Demo video
 Getting Started
 ------------
 
-I recommend storing patient images in
-
 From within the repo directory run
 
 `./TextSense/runner.py`
